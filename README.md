@@ -1,8 +1,6 @@
-# PRODIGY_ML_03
-
 # Image Classification Notebook (Cats and Dogs)
 
-In this notebook, I implement an image classification task to distinguish between images of cats and dogs. It uses a dataset containing images of cats and dogs, and trains and evaluates several deep learning models.
+In this notebook, I implement an image classification task to distinguish between images of cats and dogs. It uses a dataset containing images of cats and dogs, and trains and evaluates several deep-learning models.
 
 ## Main Contents:
 
