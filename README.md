@@ -1,4 +1,4 @@
-#PRODIGY_ML_03
+# PRODIGY_ML_03
 Here's the description of the notebook for use in a README file, in English:
 
 # Image Classification Notebook (Cats and Dogs)
